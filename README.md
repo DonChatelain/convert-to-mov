@@ -3,7 +3,7 @@
 #### Clone the repo
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/DonChatelain/convert-to-mov.git
 ```
 
 #### cd into the repo
